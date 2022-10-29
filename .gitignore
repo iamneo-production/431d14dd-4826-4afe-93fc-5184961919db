@@ -39,3 +39,7 @@ package-lock.json
 .vscode
 pscale_dump_surge-db_main
 *.sql
+
+.settings/*
+.classpath
+.project
